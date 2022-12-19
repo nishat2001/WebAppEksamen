@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^15.0.1",
+    "ng2-search-filter": "^0.5.1"
+  }
+}
